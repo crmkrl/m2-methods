@@ -1,0 +1,11 @@
+trapezoidal rule
+boole's rule
+romberg integration
+
+forward finite divided difference
+backward finite divided difference
+*centered finite divided difference
+*derivative estimate improvement
+
+euler's method for ode
+-2nd order techniques for ode
