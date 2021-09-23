@@ -34,5 +34,8 @@ double f(double x) {
 
 int main()
 {
+    cout<<endl<<"*********************"<< endl;
+    cout<<"ROMBERG TABLE"<< endl;
+    cout<<"*********************"<< endl;
     cout << romberg(f, 1, 10) << endl;
 }

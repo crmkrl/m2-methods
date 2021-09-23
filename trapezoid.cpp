@@ -3,7 +3,8 @@
 #include<iomanip>
 #include<stdlib.h>
 
-#define f(x) 1/(1+pow(x,2))
+// #define f(x) 1/(1+pow(x,2))
+#define f(x) (1/sqrt(2*M_PI))*exp((-1/2)*(pow(x,2)))
 
 using namespace std;
 

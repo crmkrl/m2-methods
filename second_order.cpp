@@ -52,6 +52,11 @@ int main()
     cin>>y;
     cout<<"Enter h: ";
     cin>>h;
+
+    cout<< endl<<"*********************"<< endl;
+    cout<<"SECOND ORDER METHOD"<< endl;
+    cout<<"*********************"<< endl;
+
     cout <<endl<<endl << fixed << setprecision(prec) << "y(x) = " << rungeKutta(x0, y, x, h, prec) <<endl<<endl;
     return 0;
 }
