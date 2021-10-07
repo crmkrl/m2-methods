@@ -1,1 +1,1 @@
-# m2_q1
+# m2-methods
